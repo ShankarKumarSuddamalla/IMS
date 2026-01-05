@@ -859,3 +859,1028 @@ Binding(CTRL+SHIFT+T,
 
 !ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:25:12.939
 !MESSAGE 23:25:12.938 [pool-3-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/discovery-server/src/main/java/com/tcs/discoveryserver/DiscoveryServerApplication.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:40:57.463
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:40:57.483
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:40:57.484
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:40:57.614
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:40:58.153
+!MESSAGE 23:25:40.607 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - Creating RemoteStringBootApp: RemoteBootAppData [jmxurl=service:jmx:rmi:///jndi/rmi://127.0.0.1:62555/jmxrmi, host=127.0.0.1, urlScheme=http, port=null, manualConnect=false, keepChecking=true, processId=19744, processName=com.tcs.discoveryserver.DiscoveryServerApplication. projectName=discovery-server]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:40:58.190
+!MESSAGE 23:40:58.190 [pool-6-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files for symbols for project: api-gateway took ms: 37
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:40:58.526
+!MESSAGE 23:40:58.480 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - scan java files done, number of symbols created: 1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:41:00.163
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:41:00.164
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:41:00.165
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:41:00.166
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:41:00.282
+!MESSAGE 23:41:00.281 [pool-6-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files used cached data: api-gateway - no. of cached symbols retrieved: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:41:00.649
+!MESSAGE 23:41:00.468 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - scan java files used cached data: api-gateway - no. of cached symbols retrieved: 1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:41:00.808
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:41:00.809
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:41:00.810
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:41:00.810
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2026-01-05 23:42:56.519
+!MESSAGE Failed to refresh Code Minings for editor.
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): api-gateway does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:548)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2550)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2371)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:2414)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$9(STS4LanguageClientImpl.java:440)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.lambda$0(ReusableClasspathListenerHandler.java:76)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.run(ReusableClasspathListenerHandler.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2026-01-05 23:42:56.521
+!MESSAGE api-gateway does not exist
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:42:56.552
+!MESSAGE 23:41:10.919 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - scan java files restored cached dependency data: 0 - no. of cached dependencies: {}
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:47:20.213
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:47:20.213
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:47:20.214
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:47:20.331
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:47:22.234
+!MESSAGE 23:47:22.233 [pool-6-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files for symbols for project: api-gateway - no. of files: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:47:22.283
+!MESSAGE 23:47:22.274 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - scan java files for symbols for project: api-gateway - no. of files: 1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:47:23.284
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:47:23.285
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:47:23.286
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:47:23.288
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:47:23.645
+!MESSAGE 23:47:23.376 [Simple-Language-Server main thread] INFO  o.s.i.v.b.j.s.StereotypeCatalogRegistry - stereotype catalog registry reset for project 'api-gateway'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2026-01-05 23:47:25.276
+!MESSAGE Could not download sources for org.springframework.cloud:spring-cloud-starter-gateway-server-webmvc:4.3.3
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-gateway-server-webmvc:jar:sources:4.3.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:554)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:295)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:523)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:508)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:342)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-gateway-server-webmvc:jar:sources:4.3.3
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2026-01-05 23:47:25.276
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-gateway-server-webmvc:jar:sources:4.3.3
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2026-01-05 23:47:25.276
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-gateway-server-webmvc:jar:sources:4.3.3
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2026-01-05 23:47:25.766
+!MESSAGE Could not download sources for org.springframework.cloud:spring-cloud-starter:4.3.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter:jar:sources:4.3.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:554)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:295)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:523)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:508)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:342)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter:jar:sources:4.3.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2026-01-05 23:47:25.766
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter:jar:sources:4.3.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2026-01-05 23:47:25.766
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter:jar:sources:4.3.1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:47:26.177
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:47:26.177
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:47:26.178
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:47:26.181
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:47:26.350
+!MESSAGE 23:47:26.295 [pool-6-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files used cached data: api-gateway - no. of cached symbols retrieved: 0
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:47:26.839
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:47:26.841
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:47:26.842
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:47:26.845
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2026-01-05 23:47:32.722
+!MESSAGE Could not download sources for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:4.3.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:4.3.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:554)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:295)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:523)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:508)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:342)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:4.3.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2026-01-05 23:47:32.722
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:4.3.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2026-01-05 23:47:32.722
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:4.3.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2026-01-05 23:47:35.467
+!MESSAGE Could not download sources for org.springframework.cloud:spring-cloud-starter-loadbalancer:4.3.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:sources:4.3.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:554)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:295)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:523)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:508)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:342)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:sources:4.3.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2026-01-05 23:47:35.467
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:sources:4.3.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2026-01-05 23:47:35.467
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:sources:4.3.1
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:48:16.888
+!MESSAGE 23:47:37.915 [pool-6-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files for symbols for project: api-gateway - no. of files: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:48:38.321
+!MESSAGE 23:48:37.842 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:48:38.764
+!MESSAGE 23:48:38.524 [pool-3-thread-8] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting server.undertow.always-set-keep-alive
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:48:38.766
+!MESSAGE 23:48:38.757 [pool-3-thread-7] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:48:38.766
+!MESSAGE 23:48:38.757 [pool-3-thread-7] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:48:40.512
+!MESSAGE 23:48:39.071 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: server.address
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:48:41.081
+!MESSAGE 23:48:40.642 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: server.address
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:48:41.294
+!MESSAGE 23:48:41.294 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:48:41.809
+!MESSAGE 23:48:41.461 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:48:41.810
+!MESSAGE 23:48:41.715 [pool-3-thread-7] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:48:43.118
+!MESSAGE 23:48:43.118 [pool-3-thread-8] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 0 completions in 38ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:48:44.896
+!MESSAGE 23:48:44.894 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 15
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:48:44.896
+!MESSAGE 23:48:44.894 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:48:46.819
+!MESSAGE 23:48:45.560 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 17
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:48:59.705
+!MESSAGE 23:48:59.176 [pool-3-thread-7] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request terminated.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:01.364
+!MESSAGE 23:49:01.363 [pool-3-thread-7] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.cloud.compatibility-verifier.enabled
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:02.061
+!MESSAGE 23:49:02.061 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:02.089
+!MESSAGE 23:49:02.088 [pool-3-thread-7] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:03.805
+!MESSAGE 23:49:02.894 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.cloud.service-registry.auto-registration.enabled
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:03.806
+!MESSAGE 23:49:03.757 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:04.217
+!MESSAGE 23:49:04.180 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:05.821
+!MESSAGE 23:49:05.820 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.cloud.gateway.mvc.http-client.type
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:06.755
+!MESSAGE 23:49:06.754 [pool-3-thread-8] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:06.756
+!MESSAGE 23:49:06.754 [pool-3-thread-8] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:06.757
+!MESSAGE 23:49:06.754 [pool-3-thread-8] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:17.497
+!MESSAGE 23:49:17.343 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.cloud.gateway.mvc.form-filter.enabled
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:17.601
+!MESSAGE 23:49:17.580 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 35
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:18.081
+!MESSAGE 23:49:18.081 [pool-3-thread-8] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:20.158
+!MESSAGE 23:49:20.158 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 38
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:21.964
+!MESSAGE 23:49:20.754 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 41
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:35.422
+!MESSAGE 23:49:35.388 [pool-3-thread-8] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:35.832
+!MESSAGE 23:49:35.701 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:35.832
+!MESSAGE 23:49:35.724 [pool-3-thread-8] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 1868 completions in 13ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:36.435
+!MESSAGE 23:49:35.903 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:36.436
+!MESSAGE 23:49:35.924 [pool-3-thread-8] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:36.437
+!MESSAGE 23:49:35.924 [pool-3-thread-8] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:36.437
+!MESSAGE 23:49:35.924 [pool-3-thread-8] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:36.608
+!MESSAGE 23:49:36.608 [pool-3-thread-8] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 1743 completions in 13ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:37.942
+!MESSAGE 23:49:36.767 [pool-3-thread-8] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.activemq.broker-url
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:37.942
+!MESSAGE 23:49:37.813 [pool-3-thread-8] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 819 completions in 49ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:42.632
+!MESSAGE 23:49:41.978 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.cloud.compatibility-verifier.compatible-boot-versions
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:58.174
+!MESSAGE 23:49:43.006 [pool-3-thread-7] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:58.176
+!MESSAGE 23:49:43.006 [pool-3-thread-7] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:49:58.176
+!MESSAGE 23:49:44.848 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 52
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:50:04.547
+!MESSAGE 23:50:04.527 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:50:06.893
+!MESSAGE 23:50:06.893 [pool-3-thread-8] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:50:10.211
+!MESSAGE 23:50:09.518 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 70
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:50:10.964
+!MESSAGE 23:50:10.555 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:50:12.731
+!MESSAGE 23:50:12.730 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:51:36.626
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:51:36.627
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:51:36.628
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:51:36.760
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:51:37.269
+!MESSAGE 23:51:37.256 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - scan java files, AST parse, chunk 0 for files: 1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:51:37.603
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:51:37.604
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:51:37.605
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:51:37.605
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:51:37.635
+!MESSAGE 23:51:37.460 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - reconciling stats - timer: 79
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:51:37.856
+!MESSAGE 23:51:37.855 [Reconciler-1] INFO  o.s.i.v.b.m.SpringPropertiesIndexManager - Indexing Spring Boot Properties for api-gateway DONE
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2026-01-05 23:51:47.318
+!MESSAGE Could not download javadoc for org.springframework.cloud:spring-cloud-starter-gateway-server-webmvc:4.3.3
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-gateway-server-webmvc:jar:javadoc:4.3.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:554)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:295)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:523)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:508)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:342)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-gateway-server-webmvc:jar:javadoc:4.3.3
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2026-01-05 23:51:47.318
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-gateway-server-webmvc:jar:javadoc:4.3.3
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2026-01-05 23:51:47.318
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-gateway-server-webmvc:jar:javadoc:4.3.3
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2026-01-05 23:51:47.485
+!MESSAGE Could not download javadoc for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:4.3.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:4.3.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:554)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:295)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:523)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:508)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:342)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:4.3.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2026-01-05 23:51:47.486
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:4.3.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2026-01-05 23:51:47.486
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:4.3.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2026-01-05 23:51:48.005
+!MESSAGE Could not download javadoc for org.springframework.cloud:spring-cloud-starter-loadbalancer:4.3.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:javadoc:4.3.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:554)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:295)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:523)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:508)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:342)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:javadoc:4.3.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2026-01-05 23:51:48.005
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:javadoc:4.3.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2026-01-05 23:51:48.005
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:javadoc:4.3.1
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:51:48.288
+!MESSAGE 23:51:48.286 [pool-6-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files for symbols for project: api-gateway - no. of files: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:51:55.192
+!MESSAGE 23:51:48.789 [Project-Reconciler-5] INFO  o.s.i.v.b.v.BootVersionValidationEngine - validating Spring Boot version on project: api-gateway done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:51:55.193
+!MESSAGE 23:51:53.334 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:51:55.620
+!MESSAGE 23:51:55.381 [pool-3-thread-7] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:51:55.620
+!MESSAGE 23:51:55.381 [pool-3-thread-7] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:51:55.909
+!MESSAGE 23:51:55.908 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:51:59.138
+!MESSAGE 23:51:56.966 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.activemq.broker-url
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:51:59.427
+!MESSAGE 23:51:59.427 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:51:59.890
+!MESSAGE 23:51:59.890 [pool-3-thread-10] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.cloud.compatibility-verifier.compatible-boot-versions
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:52:21.626
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:52:21.627
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:52:21.628
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:52:21.629
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.ui 4 0 2026-01-05 23:52:22.215
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException: Property must not be null: range
+	at org.eclipse.lsp4j.jsonrpc.util.Preconditions.checkNotNull(Preconditions.java:29)
+	at org.eclipse.lsp4j.Location.<init>(Location.java:34)
+	at org.eclipse.lsp4e.client.DefaultLanguageClient.lambda$5(DefaultLanguageClient.java:169)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4137)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3753)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1147)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1038)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:677)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:185)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:615)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:563)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1415)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:52:37.470
+!MESSAGE 23:52:00.072 [pool-3-thread-10] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.cloud.compatibility-verifier.compatible-boot-versions
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:52:39.621
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:52:39.621
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:52:39.622
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:52:39.622
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:52:46.484
+!MESSAGE 23:52:46.201 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:52:46.485
+!MESSAGE 23:52:46.483 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.cloud.gateway.server.webflux.default-filters
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:52:46.485
+!MESSAGE 23:52:46.484 [pool-3-thread-10] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.cloud.gateway.server.webflux.default-filters
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:52:48.980
+!MESSAGE 23:52:47.005 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:52:49.034
+!MESSAGE 23:52:49.023 [pool-3-thread-10] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:52:49.143
+!MESSAGE 23:52:49.143 [pool-3-thread-10] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting spring.cloud.gateway.server.webflux.default-filters
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:52:50.784
+!MESSAGE 23:52:50.784 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 98
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:52:50.785
+!MESSAGE 23:52:50.784 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:52:53.360
+!MESSAGE 23:52:50.955 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: default-filters
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:52:56.806
+!MESSAGE 23:52:53.703 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:52:57.674
+!MESSAGE 23:52:57.674 [pool-3-thread-10] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:07.134
+!MESSAGE 23:53:01.041 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - completion request arrived: file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:07.648
+!MESSAGE 23:53:07.647 [pool-3-thread-10] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:07.648
+!MESSAGE 23:53:07.647 [pool-3-thread-10] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:07.649
+!MESSAGE 23:53:07.647 [pool-3-thread-10] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:07.739
+!MESSAGE 23:53:07.738 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: lower-case-service-id
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:08.497
+!MESSAGE 23:53:07.742 [pool-3-thread-10] INFO  o.s.i.v.c.j.JdtLsJavadocProvider - Fetching javadoc Lorg/springframework/cloud/gateway/discovery/DiscoveryLocatorProperties;.isLowerCaseServiceId()Z took 2 ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:10.017
+!MESSAGE 23:53:10.017 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:10.196
+!MESSAGE 23:53:10.169 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:10.358
+!MESSAGE 23:53:10.357 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:10.575
+!MESSAGE 23:53:10.386 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:10.575
+!MESSAGE 23:53:10.574 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:10.789
+!MESSAGE 23:53:10.668 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:11.121
+!MESSAGE 23:53:10.816 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:11.984
+!MESSAGE 23:53:11.829 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 180
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:12.503
+!MESSAGE 23:53:12.502 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:12.604
+!MESSAGE 23:53:12.604 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 205
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:12.605
+!MESSAGE 23:53:12.604 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:12.876
+!MESSAGE 23:53:12.629 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:12.877
+!MESSAGE 23:53:12.783 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:12.904
+!MESSAGE 23:53:12.903 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:14.505
+!MESSAGE 23:53:13.397 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 231
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:14.506
+!MESSAGE 23:53:13.398 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:14.595
+!MESSAGE 23:53:14.591 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:14.992
+!MESSAGE 23:53:14.689 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:18.285
+!MESSAGE 23:53:15.021 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:53:18.410
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:53:18.411
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:53:18.411
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:53:18.411
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:53:32.444
+!MESSAGE 23:53:32.443 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/ApiGatewayApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:54:32.124
+!MESSAGE 23:53:32.492 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/ApiGatewayApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:55:05.940
+!MESSAGE 23:54:44.926 [pool-3-thread-7] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:55:28.642
+!MESSAGE 23:55:10.740 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 14
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:55:28.643
+!MESSAGE 23:55:13.471 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.yml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:55:28.794
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:55:28.794
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:55:28.795
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:55:28.795
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:55:28.821
+!MESSAGE 23:55:28.820 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///F:/IMS/backend/api-gateway/target/classes/application.yml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:55:36.550
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:55:36.551
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:55:36.551
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:55:36.552
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:55:40.730
+!MESSAGE 23:55:30.629 [pool-3-thread-7] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:55:40.731
+!MESSAGE 23:55:40.726 [pool-3-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/ApiGatewayApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:55:42.640
+!MESSAGE 23:55:40.733 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/ApiGatewayApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:55:42.641
+!MESSAGE 23:55:42.640 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/ApiGatewayApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:55:42.641
+!MESSAGE 23:55:42.640 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/ApiGatewayApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:55:42.641
+!MESSAGE 23:55:42.640 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/ApiGatewayApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:55:42.642
+!MESSAGE 23:55:42.640 [pool-3-thread-11] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:56:29.049
+!MESSAGE 23:56:05.324 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.yml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:56:31.185
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:56:31.186
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:56:31.186
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:56:31.187
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:57:02.815
+!MESSAGE 23:56:48.891 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:57:20.046
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:57:20.047
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:57:20.047
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:57:20.048
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:57:23.370
+!MESSAGE 23:57:07.528 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:57:23.371
+!MESSAGE 23:57:12.085 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:57:23.402
+!MESSAGE 23:57:23.402 [pool-5-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/ApiGatewayApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:57:23.408
+!MESSAGE 23:57:23.406 [pool-3-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/ApiGatewayApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:57:23.413
+!MESSAGE 23:57:23.412 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Closed: file:///F:/IMS/backend/api-gateway/src/main/resources/application.yml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:59:01.837
+!MESSAGE 23:58:16.527 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - Creating RemoteStringBootApp: RemoteBootAppData [jmxurl=service:jmx:rmi:///jndi/rmi://127.0.0.1:53702/jmxrmi, host=127.0.0.1, urlScheme=http, port=null, manualConnect=false, keepChecking=true, processId=3644, processName=com.tcs.discoveryserver.DiscoveryServerApplication. projectName=discovery-server]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:59:01.837
+!MESSAGE 23:59:01.836 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 2
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:59:02.576
+!MESSAGE 23:59:02.575 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 5
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:59:06.212
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:59:06.214
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:59:06.214
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:59:06.215
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:59:06.216
+!MESSAGE 23:59:06.213 [Simple-Language-Server main thread] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Removing and cleaning up name env for project file:/F:/IMS/backend/api-gateway
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:59:06.234
+!MESSAGE 23:59:06.233 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/ApiGatewayApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:59:06.313
+!MESSAGE 23:59:06.312 [pool-5-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/ApiGatewayApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-05 23:59:06.329
+!MESSAGE 23:59:06.319 [pool-3-thread-14] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/ApiGatewayApplication.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:59:07.377
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:59:07.378
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:59:07.379
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-05 23:59:07.380
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:42.902
+!MESSAGE ProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:42.903
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:42.904
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:42.905
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.035
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.035
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.036
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.036
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.037
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.037
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.038
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.038
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.038
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.039
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.039
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.039
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.040
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.040
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.040
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.040
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-06 00:00:43.125
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-06 00:00:43.126
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-06 00:00:43.127
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-06 00:00:43.128
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.353
+!MESSAGE 00:00:43.166 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///F:/IMS/backend/api-gateway/target/classes/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.353
+!MESSAGE 00:00:43.171 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file created event: [file:///F:/IMS/backend/api-gateway/target/classes/com/tcs/apigateway/configs/SecurityConfig.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.404
+!MESSAGE 00:00:43.361 [pool-3-thread-21] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.404
+!MESSAGE 00:00:43.404 [pool-3-thread-18] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.405
+!MESSAGE 00:00:43.404 [pool-3-thread-19] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.406
+!MESSAGE 00:00:43.404 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:43.445
+!MESSAGE 00:00:43.445 [pool-3-thread-21] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:48.909
+!MESSAGE 00:00:43.853 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:48.909
+!MESSAGE 00:00:48.908 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:48.910
+!MESSAGE 00:00:48.908 [pool-5-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:49.010
+!MESSAGE 00:00:49.010 [pool-5-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:49.985
+!MESSAGE 00:00:49.462 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:49.986
+!MESSAGE 00:00:49.985 [pool-3-thread-19] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:49.987
+!MESSAGE 00:00:49.985 [pool-3-thread-19] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:49.990
+!MESSAGE 00:00:49.990 [pool-3-thread-21] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:49.991
+!MESSAGE 00:00:49.990 [pool-3-thread-21] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:58.208
+!MESSAGE 00:00:52.136 [pool-3-thread-21] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:58.758
+!MESSAGE 00:00:58.753 [pool-3-thread-21] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:58.758
+!MESSAGE 00:00:58.757 [pool-5-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:58.759
+!MESSAGE 00:00:58.757 [pool-3-thread-19] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:58.760
+!MESSAGE 00:00:58.757 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:59.669
+!MESSAGE 00:00:58.777 [pool-3-thread-19] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:00:59.762
+!MESSAGE 00:00:59.758 [pool-3-thread-19] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-06 00:01:00.439
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-06 00:01:00.439
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-06 00:01:00.440
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-06 00:01:00.441
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:01:23.609
+!MESSAGE 00:01:01.006 [pool-5-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:01:23.610
+!MESSAGE 00:01:23.608 [pool-3-thread-21] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:01:23.610
+!MESSAGE 00:01:23.609 [pool-3-thread-21] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:02:08.478
+!MESSAGE 00:02:08.474 [pool-5-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-06 00:09:21.303
+!MESSAGE 00:03:43.605 [pool-3-thread-22] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/SecurityConfig.java
