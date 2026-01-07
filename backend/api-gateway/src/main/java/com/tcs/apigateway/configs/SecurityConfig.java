@@ -11,12 +11,11 @@ public class SecurityConfig {
     @Bean
     public SecurityWebFilterChain securityWebFilterChain(ServerHttpSecurity http) {
 
-        http
-            .csrf(csrf -> csrf.disable())
-            .authorizeExchange(exchange -> exchange
-                .anyExchange().permitAll()
-            );
-
-        return http.build();
+        return http
+                .csrf(csrf -> csrf.disable())
+                .authorizeExchange(exchange -> exchange
+                        .anyExchange().permitAll()
+                )
+                .build();
     }
 }
