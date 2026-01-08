@@ -4862,3 +4862,477 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.lsp4e 4 0 2026-01-08 22:09:41.313
 !MESSAGE 22:09:39.729 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/user-service/src/main/java/com/tcs/userservice/controllers/UserProfileController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:45.600
+!MESSAGE 22:09:45.615 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/security/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:46.697
+!MESSAGE 23:33:46.366 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Start scanning affected files for types [com.tcs.apigateway.configs.CorsConfig]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:46.719
+!MESSAGE 23:33:46.707 [pool-5-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:46.814
+!MESSAGE 23:33:46.813 [pool-5-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:46.819
+!MESSAGE 23:33:46.815 [pool-3-thread-77] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:47.016
+!MESSAGE 23:33:47.015 [pool-3-thread-76] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:47.219
+!MESSAGE 23:33:47.039 [pool-3-thread-76] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-08 23:33:52.128
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-08 23:33:52.130
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-08 23:33:52.131
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-08 23:33:52.133
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:52.229
+!MESSAGE 23:33:47.224 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:52.749
+!MESSAGE 23:33:52.347 [ForkJoinPool.commonPool-worker-23] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Removing and cleaning up name env for project file:/F:/IMS/backend/api-gateway
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:52.899
+!MESSAGE 23:33:52.892 [pool-3-thread-76] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:52.901
+!MESSAGE 23:33:52.900 [pool-3-thread-78] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:56.965
+!MESSAGE 23:33:53.669 [pool-3-thread-76] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:56.981
+!MESSAGE 23:33:56.980 [pool-5-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:57.027
+!MESSAGE 23:33:57.026 [pool-3-thread-76] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:57.039
+!MESSAGE 23:33:57.036 [pool-3-thread-76] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:57.541
+!MESSAGE 23:33:57.480 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:58.081
+!MESSAGE 23:33:57.701 [pool-5-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:58.081
+!MESSAGE 23:33:58.080 [pool-3-thread-76] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:58.116
+!MESSAGE 23:33:58.104 [pool-3-thread-76] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:58.682
+!MESSAGE 23:33:58.681 [pool-3-thread-78] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:33:58.689
+!MESSAGE 23:33:58.688 [pool-3-thread-76] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:02.842
+!MESSAGE 23:34:02.840 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:02.878
+!MESSAGE 23:34:02.877 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.336
+!MESSAGE 23:34:03.336 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.373
+!MESSAGE 23:34:03.361 [pool-3-thread-76] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.374
+!MESSAGE 23:34:03.372 [pool-3-thread-78] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.378
+!MESSAGE 23:34:03.376 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.401
+!MESSAGE p(LocalCache.java:3467)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.402
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.postWriteCleanup(LocalCache.java:3443)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.403
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.remove(LocalCache.java:3077)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.404
+!MESSAGE 	at com.google.common.cache.LocalCache.remove(LocalCache.java:4251)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.404
+!MESSAGE 	at com.google.common.cache.LocalCache$LocalManualCache.invalidate(LocalCache.java:4891)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.405
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.invalidateCuForJavaFile(CompilationUnitCache.java:383)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.406
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.lambda$new$0(CompilationUnitCache.java:130)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.407
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ListenerList.fire(ListenerList.java:29)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.408
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleTextDocumentService.didChange(SimpleTextDocumentService.java:210)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.409
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.409
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.410
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.411
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.411
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.412
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.412
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.413
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.413
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.414
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.414
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.415
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.416
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.416
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.417
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.417
+!MESSAGE Caused by: java.util.concurrent.CancellationException: null
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.418
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2552)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.419
+!MESSAGE 	... 26 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.426
+!MESSAGE 23:34:03.420 [pool-5-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.440
+!MESSAGE 23:34:03.429 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 3ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.458
+!MESSAGE 23:34:03.457 [pool-5-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.464
+!MESSAGE 23:34:03.462 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:03.489
+!MESSAGE 23:34:03.487 [pool-5-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.110
+!MESSAGE j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.111
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.112
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.113
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.114
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.115
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.115
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.115
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.116
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.116
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.116
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.117
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.117
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.118
+!MESSAGE Caused by: java.util.concurrent.CancellationException: null
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.118
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2552)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.118
+!MESSAGE 	... 26 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.167
+!MESSAGE 23:34:04.166 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 32
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.320
+!MESSAGE 23:34:04.198 [pool-14-thread-1] ERROR o.s.i.v.b.j.u.CompilationUnitCache - 
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.321
+!MESSAGE java.util.concurrent.CompletionException: java.util.concurrent.CancellationException
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.322
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.wrapInCompletionException(CompletableFuture.java:323)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.323
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:376)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.323
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:391)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.324
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:729)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.325
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:531)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.325
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2554)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.327
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache$1.onRemoval(CompilationUnitCache.java:106)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.327
+!MESSAGE 	at com.google.common.cache.LocalCache.processPendingNotifications(LocalCache.java:1814)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.327
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.runUnlockedCleanup(LocalCache.java:3467)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.328
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.postWriteCleanup(LocalCache.java:3443)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.328
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.remove(LocalCache.java:3077)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.329
+!MESSAGE 	at com.google.common.cache.LocalCache.remove(LocalCache.java:4251)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.329
+!MESSAGE 	at com.google.common.cache.LocalCache$LocalManualCache.invalidate(LocalCache.java:4891)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.330
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.invalidateCuForJavaFile(CompilationUnitCache.java:383)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.330
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.lambda$new$0(CompilationUnitCache.java:130)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.330
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ListenerList.fire(ListenerList.java:29)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.331
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleTextDocumentService.didChange(SimpleTextDocumentService.java:210)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.331
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.331
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.331
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.331
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.332
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.332
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.333
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.333
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:04.333
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.000
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.001
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.001
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.002
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.002
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.002
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.003
+!MESSAGE Caused by: java.util.concurrent.CancellationException: null
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.003
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2552)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.003
+!MESSAGE 	... 26 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.003
+!MESSAGE t java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.004
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.004
+!MESSAGE Caused by: java.util.concurrent.CancellationException: null
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.005
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2552)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.005
+!MESSAGE 	... 26 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.005
+!MESSAGE t java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.006
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.006
+!MESSAGE Caused by: java.util.concurrent.CancellationException: null
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.006
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2552)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.007
+!MESSAGE 	... 26 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.007
+!MESSAGE j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.007
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.008
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.008
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.008
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.008
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.009
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.009
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.009
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.010
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.010
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.010
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.011
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.011
+!MESSAGE Caused by: java.util.concurrent.CancellationException: null
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.011
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2552)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.011
+!MESSAGE 	... 26 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.095
+!MESSAGE 23:34:05.093 [pool-5-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.465
+!MESSAGE 23:34:05.460 [pool-3-thread-76] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.767
+!MESSAGE 23:34:05.583 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.768
+!MESSAGE 23:34:05.765 [pool-5-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:05.941
+!MESSAGE 23:34:05.940 [pool-3-thread-76] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:06.559
+!MESSAGE 23:34:06.258 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:06.559
+!MESSAGE 23:34:06.548 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - doc save event: file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-08 23:34:06.864
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-08 23:34:06.865
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-08 23:34:06.866
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-01-08 23:34:06.868
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:07.404
+!MESSAGE 23:34:06.718 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Finished scanning affected files [F:\IMS\backend\api-gateway\src\main\java\com\tcs\apigateway\configs\CorsConfig.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:07.404
+!MESSAGE 23:34:07.404 [pool-3-thread-76] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:07.448
+!MESSAGE 23:34:07.447 [pool-5-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-08 23:34:07.453
+!MESSAGE 23:34:07.451 [pool-3-thread-76] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/configs/CorsConfig.java
