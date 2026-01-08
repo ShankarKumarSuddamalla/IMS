@@ -19,7 +19,7 @@ public class JwtUtil {
         return Keys.hmacShaKeyFor(secret.getBytes());
     }
 
-    public Claims extractAllClaims(String token) {
+    public Claims getClaims(String token) {
         return Jwts.parserBuilder()
                 .setSigningKey(getSigningKey())
                 .build()
@@ -29,10 +29,18 @@ public class JwtUtil {
 
     public boolean isTokenValid(String token) {
         try {
-            extractAllClaims(token);
+            getClaims(token);
             return true;
         } catch (Exception e) {
             return false;
         }
+    }
+
+    public String getRole(String token) {
+        return getClaims(token).get("role", String.class);
+    }
+
+    public String getEmail(String token) {
+        return getClaims(token).getSubject();
     }
 }

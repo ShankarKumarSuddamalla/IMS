@@ -21,23 +21,18 @@ public class JwtAuthenticationFilter implements GlobalFilter, Ordered {
     public Mono<Void> filter(ServerWebExchange exchange, GatewayFilterChain chain) {
 
         String path = exchange.getRequest().getURI().getPath();
-
+        System.out.println("Path: "+path);
         // 🔓 PUBLIC ENDPOINTS
         if (path.startsWith("/auth")) {
             return chain.filter(exchange);
         }
 
-        // 🔒 PROTECTED ENDPOINTS
-        if (!exchange.getRequest().getHeaders().containsKey(HttpHeaders.AUTHORIZATION)) {
-            exchange.getResponse().setStatusCode(HttpStatus.UNAUTHORIZED);
-            return exchange.getResponse().setComplete();
-        }
+        // 🔒 AUTHORIZATION HEADER REQUIRED
+        String authHeader = exchange.getRequest()
+                .getHeaders()
+                .getFirst(HttpHeaders.AUTHORIZATION);
 
-        String authHeader = exchange.getRequest().getHeaders()
-                .get(HttpHeaders.AUTHORIZATION)
-                .get(0);
-
-        if (!authHeader.startsWith("Bearer ")) {
+        if (authHeader == null || !authHeader.startsWith("Bearer ")) {
             exchange.getResponse().setStatusCode(HttpStatus.UNAUTHORIZED);
             return exchange.getResponse().setComplete();
         }
@@ -49,6 +44,23 @@ public class JwtAuthenticationFilter implements GlobalFilter, Ordered {
             return exchange.getResponse().setComplete();
         }
 
+        String role = jwtUtil.getRole(token);
+        String email = jwtUtil.getEmail(token);
+
+        // 🔐 ADMIN-ONLY: VIEW ALL USERS
+        if (path.equals("/user-service/users")) {
+            if (!"ADMIN".equals(role)) {
+                exchange.getResponse().setStatusCode(HttpStatus.FORBIDDEN);
+                return exchange.getResponse().setComplete();
+            }
+        }
+
+        // ✅ Forward user info to downstream services (optional but useful)
+        exchange.getRequest().mutate()
+                .header("X-USER-EMAIL", email)
+                .header("X-USER-ROLE", role)
+                .build();
+
         return chain.filter(exchange);
     }
 
@@ -57,4 +69,3 @@ public class JwtAuthenticationFilter implements GlobalFilter, Ordered {
         return -1;
     }
 }
-
