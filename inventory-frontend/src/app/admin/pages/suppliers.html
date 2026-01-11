@@ -1,0 +1,41 @@
+<h1 class="title">Suppliers</h1>
+
+<div class="search-bar">
+  <input
+    type="text"
+    placeholder="Search by email"
+    [(ngModel)]="searchEmail"
+  />
+  <button (click)="search()">Search</button>
+</div>
+
+<p *ngIf="loading">Loading...</p>
+<p class="error" *ngIf="error">{{ error }}</p>
+
+<table *ngIf="suppliers.length > 0">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Email</th>
+      <th>Role</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let supplier of suppliers">
+      <td>{{ supplier.name }}</td>
+      <td>{{ supplier.email }}</td>
+      <td>{{ supplier.role }}</td>
+      <td>
+        <button class="delete-btn"
+                (click)="deleteSupplier(supplier.id)">
+          Delete
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p *ngIf="!loading && suppliers.length === 0">
+  No suppliers found
+</p>    
