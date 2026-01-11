@@ -4544,3 +4544,1500 @@ java.lang.InterruptedException
 
 !ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:50:42.736
 !MESSAGE 17:50:42.708 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///F:/IMS/backend/auth-service/target/classes/application.yml
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:56:46.290
+!MESSAGE 17:50:43.219 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:56:46.311
+!MESSAGE 17:50:43.279 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:56:46.423
+!MESSAGE 17:50:43.279 [pool-3-thread-46] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:56:46.429
+!MESSAGE 17:56:46.104 [pool-5-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:56:58.560
+!MESSAGE 17:56:55.204 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - updating settings for remote processses to track - done
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:05.409
+!MESSAGE 17:57:05.408 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - updating settings for remote processses to track - done
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:24.894
+!MESSAGE 17:57:24.894 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - Removing RemoteSpringBootApp: RemoteBootAppData [jmxurl=service:jmx:rmi:///jndi/rmi://127.0.0.1:64367/jmxrmi, host=127.0.0.1, urlScheme=http, port=null, manualConnect=false, keepChecking=true, processId=18572, processName=com.tcs.authservice.AuthServiceApplication. projectName=auth-service]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:24.904
+!MESSAGE 17:57:24.902 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/user-service/src/main/java/com/tcs/userservice/controllers/InternalUserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:25.235
+!MESSAGE 17:57:24.944 [pool-7-thread-4] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorOverJMX - close JMX connection to: service:jmx:rmi:///jndi/rmi://127.0.0.1:64367/jmxrmi
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:25.236
+!MESSAGE 17:57:25.186 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/user-service/src/main/java/com/tcs/userservice/controllers/InternalUserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:25.237
+!MESSAGE 17:57:25.233 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/report-service/src/main/java/com/tcs/reportservice/controller/ReportController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:25.471
+!MESSAGE 17:57:25.467 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/report-service/src/main/java/com/tcs/reportservice/services/ReportService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:25.841
+!MESSAGE 17:57:25.709 [pool-5-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/user-service/src/main/java/com/tcs/userservice/repositories/UserProfileRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:25.842
+!MESSAGE 17:57:25.841 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/security/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:25.929
+!MESSAGE 17:57:25.926 [pool-5-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/services/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:32.218
+!MESSAGE 17:57:25.937 [pool-5-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/dtos/UserProfileRequest.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.857
+!MESSAGE 17:57:32.220 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.862
+!MESSAGE 17:57:38.861 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/user-service/src/main/java/com/tcs/userservice/controllers/InternalUserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.865
+!MESSAGE 17:57:38.865 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/report-service/src/main/java/com/tcs/reportservice/services/ReportService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.868
+!MESSAGE .springframework.ide.vscode.boot.java.livehover.v2.SpringProcessConnectorOverJMX.disconnect(SpringProcessConnectorOverJMX.java:205)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.869
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessConnectorService.lambda$scheduleDisconnect$5(SpringProcessConnectorService.java:200)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.869
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.869
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.870
+!MESSAGE 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.871
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.871
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.871
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.873
+!MESSAGE Caused by: java.net.ConnectException: Connection refused: connect
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.873
+!MESSAGE 	at java.base/sun.nio.ch.Net.connect0(Native Method)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.874
+!MESSAGE 	at java.base/sun.nio.ch.Net.connect(Net.java:546)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.874
+!MESSAGE 	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.874
+!MESSAGE 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.875
+!MESSAGE 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.875
+!MESSAGE 	at java.base/java.net.Socket.connect(Socket.java:659)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.876
+!MESSAGE 	at java.base/java.net.Socket.connect(Socket.java:597)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.876
+!MESSAGE 	at java.base/java.net.Socket.<init>(Socket.java:464)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.877
+!MESSAGE 	at java.base/java.net.Socket.<init>(Socket.java:276)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.877
+!MESSAGE 	at java.rmi/sun.rmi.transport.tcp.TCPDirectSocketFactory.createSocket(TCPDirectSocketFactory.java:40)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.878
+!MESSAGE 	at java.rmi/sun.rmi.transport.tcp.TCPEndpoint.newSocket(TCPEndpoint.java:609)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.878
+!MESSAGE 	... 15 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:38.884
+!MESSAGE 17:57:38.879 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/services/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:44.831
+!MESSAGE 17:57:44.827 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:44.834
+!MESSAGE 17:57:44.832 [pool-3-thread-48] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:53.866
+!MESSAGE 17:57:50.190 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - Removing RemoteSpringBootApp: RemoteBootAppData [jmxurl=service:jmx:rmi:///jndi/rmi://127.0.0.1:64345/jmxrmi, host=127.0.0.1, urlScheme=http, port=null, manualConnect=false, keepChecking=true, processId=12752, processName=com.tcs.apigateway.ApiGatewayApplication. projectName=api-gateway]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:53.867
+!MESSAGE nect(Net.java:535)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:53.867
+!MESSAGE 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:585)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:53.868
+!MESSAGE 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:53.868
+!MESSAGE 	at java.base/java.net.Socket.connect(Socket.java:659)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:53.868
+!MESSAGE 	at java.base/java.net.Socket.connect(Socket.java:597)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:53.869
+!MESSAGE 	at java.base/java.net.Socket.<init>(Socket.java:464)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:53.869
+!MESSAGE 	at java.base/java.net.Socket.<init>(Socket.java:276)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:53.869
+!MESSAGE 	at java.rmi/sun.rmi.transport.tcp.TCPDirectSocketFactory.createSocket(TCPDirectSocketFactory.java:40)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:53.870
+!MESSAGE 	at java.rmi/sun.rmi.transport.tcp.TCPEndpoint.newSocket(TCPEndpoint.java:609)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:53.870
+!MESSAGE 	... 15 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:53.890
+!MESSAGE 17:57:53.886 [pool-5-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:53.891
+!MESSAGE 17:57:53.886 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:57:53.893
+!MESSAGE 17:57:53.893 [pool-3-thread-48] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:58:12.935
+!MESSAGE 17:58:05.453 [pool-3-thread-48] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:58:15.603
+!MESSAGE 17:58:15.603 [pool-3-thread-48] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:58:15.605
+!MESSAGE 17:58:15.604 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:58:21.476
+!MESSAGE 17:58:21.476 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:58:21.477
+!MESSAGE 17:58:21.476 [pool-3-thread-47] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:58:49.154
+!MESSAGE 17:58:37.325 [pool-3-thread-48] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:58:49.155
+!MESSAGE 17:58:49.095 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/api-gateway/src/main/java/com/tcs/apigateway/security/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:58:49.155
+!MESSAGE 17:58:49.154 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Closed: file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/services/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-10 17:58:49.397
+!MESSAGE 17:58:49.167 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/dtos/UserProfileRequest.java
+!SESSION 2026-01-11 10:27:38.100 -----------------------------------------------
+eclipse.buildId=4.38.0.202512052019
+java.version=25.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.springtools
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.springtools
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-11 10:28:34.483
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-11 10:28:40.885
+!MESSAGE Logback config file: F:\IMS\backend\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.101.20251017-1242.xml
+
+!ENTRY org.eclipse.ui 2 0 2026-01-11 10:28:41.783
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2026-01-11 10:28:41.783
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2026-01-11 10:28:42.420
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2026-01-11 10:28:42.420
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui.editors 4 10001 2026-01-11 10:28:45.772
+!MESSAGE Ignoring template 'markdowngettercomment' since validation failed.
+!STACK 0
+org.eclipse.jface.text.templates.TemplateException: Pattern is not a valid Java comment.
+	at org.eclipse.jdt.internal.core.manipulation.CodeTemplateContextType.validate(CodeTemplateContextType.java:416)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.validateTemplate(ContributionTemplateStore.java:181)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readIncludedTemplates(ContributionTemplateStore.java:154)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readContributedTemplates(ContributionTemplateStore.java:120)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.loadContributedTemplates(ContributionTemplateStore.java:109)
+	at org.eclipse.jface.text.templates.persistence.TemplateStore.load(TemplateStore.java:98)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.getCodeTemplateStore(JavaPlugin.java:916)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.start(JavaPlugin.java:429)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:838)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:251)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:830)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:780)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1082)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:394)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:643)
+	at org.eclipse.osgi.container.Module.start(Module.java:500)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:528)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:122)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:620)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:353)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:418)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:527)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:439)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:195)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:663)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:226)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:1034)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:286)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:65)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.runInitializer(PreferenceServiceRegistryHelper.java:288)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.applyRuntimeDefaults(PreferenceServiceRegistryHelper.java:114)
+	at org.eclipse.core.internal.preferences.PreferencesService.applyRuntimeDefaults(PreferencesService.java:338)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.applyRuntimeDefaults(DefaultPreferences.java:233)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.load(DefaultPreferences.java:288)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:381)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:635)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:771)
+	at org.eclipse.core.runtime.preferences.AbstractScope.getNode(AbstractScope.java:37)
+	at org.eclipse.e4.ui.css.swt.helpers.EclipsePreferencesHelper.overrideDefault(EclipsePreferencesHelper.java:147)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:64)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:55)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.applyCSSProperty(EclipsePreferencesHandler.java:43)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyCSSProperty(AbstractCSSEngine.java:731)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyleDeclaration(AbstractCSSEngine.java:542)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyConditionalPseudoStyle(AbstractCSSEngine.java:503)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:412)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:369)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.applyStyles(ThemeEngine.java:553)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.overridePreferences(PartRenderingEngine.java:1485)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.handleEvent(PartRenderingEngine.java:1429)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.subscribeCssThemeChanged(PartRenderingEngine.java:378)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.di.internal.extensions.EventObjectSupplier$DIEventHandler.handleEvent(EventObjectSupplier.java:92)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:73)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:48)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.sendThemeChangeEvent(ThemeEngine.java:525)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:504)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:434)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:426)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.restore(ThemeEngine.java:623)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.setCSSTheme(PartRenderingEngine.java:1409)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1316)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1042)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1038)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:677)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:185)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:615)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:563)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1415)
+
+!ENTRY org.eclipse.ui.editors 4 10001 2026-01-11 10:28:45.774
+!MESSAGE Ignoring template 'markdownsettercomment' since validation failed.
+!STACK 0
+org.eclipse.jface.text.templates.TemplateException: Pattern is not a valid Java comment.
+	at org.eclipse.jdt.internal.core.manipulation.CodeTemplateContextType.validate(CodeTemplateContextType.java:416)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.validateTemplate(ContributionTemplateStore.java:181)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readIncludedTemplates(ContributionTemplateStore.java:154)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readContributedTemplates(ContributionTemplateStore.java:120)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.loadContributedTemplates(ContributionTemplateStore.java:109)
+	at org.eclipse.jface.text.templates.persistence.TemplateStore.load(TemplateStore.java:98)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.getCodeTemplateStore(JavaPlugin.java:916)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.start(JavaPlugin.java:429)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:838)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:251)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:830)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:780)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1082)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:394)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:643)
+	at org.eclipse.osgi.container.Module.start(Module.java:500)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:528)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:122)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:620)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:353)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:418)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:527)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:439)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:195)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:663)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:226)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:1034)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:286)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:65)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.runInitializer(PreferenceServiceRegistryHelper.java:288)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.applyRuntimeDefaults(PreferenceServiceRegistryHelper.java:114)
+	at org.eclipse.core.internal.preferences.PreferencesService.applyRuntimeDefaults(PreferencesService.java:338)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.applyRuntimeDefaults(DefaultPreferences.java:233)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.load(DefaultPreferences.java:288)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:381)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:635)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:771)
+	at org.eclipse.core.runtime.preferences.AbstractScope.getNode(AbstractScope.java:37)
+	at org.eclipse.e4.ui.css.swt.helpers.EclipsePreferencesHelper.overrideDefault(EclipsePreferencesHelper.java:147)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:64)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:55)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.applyCSSProperty(EclipsePreferencesHandler.java:43)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyCSSProperty(AbstractCSSEngine.java:731)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyleDeclaration(AbstractCSSEngine.java:542)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyConditionalPseudoStyle(AbstractCSSEngine.java:503)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:412)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:369)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.applyStyles(ThemeEngine.java:553)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.overridePreferences(PartRenderingEngine.java:1485)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.handleEvent(PartRenderingEngine.java:1429)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.subscribeCssThemeChanged(PartRenderingEngine.java:378)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.di.internal.extensions.EventObjectSupplier$DIEventHandler.handleEvent(EventObjectSupplier.java:92)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:73)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:48)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.sendThemeChangeEvent(ThemeEngine.java:525)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:504)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:434)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:426)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.restore(ThemeEngine.java:623)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.setCSSTheme(PartRenderingEngine.java:1409)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1316)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1042)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1038)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:677)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:185)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:615)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:563)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1415)
+
+!ENTRY org.eclipse.ui.editors 4 10001 2026-01-11 10:28:45.776
+!MESSAGE Ignoring template 'markdownconstructorcomment' since validation failed.
+!STACK 0
+org.eclipse.jface.text.templates.TemplateException: Pattern is not a valid Java comment.
+	at org.eclipse.jdt.internal.core.manipulation.CodeTemplateContextType.validate(CodeTemplateContextType.java:416)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.validateTemplate(ContributionTemplateStore.java:181)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readIncludedTemplates(ContributionTemplateStore.java:154)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readContributedTemplates(ContributionTemplateStore.java:120)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.loadContributedTemplates(ContributionTemplateStore.java:109)
+	at org.eclipse.jface.text.templates.persistence.TemplateStore.load(TemplateStore.java:98)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.getCodeTemplateStore(JavaPlugin.java:916)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.start(JavaPlugin.java:429)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:838)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:251)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:830)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:780)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1082)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:394)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:643)
+	at org.eclipse.osgi.container.Module.start(Module.java:500)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:528)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:122)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:620)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:353)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:418)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:527)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:439)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:195)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:663)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:226)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:1034)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:286)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:65)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.runInitializer(PreferenceServiceRegistryHelper.java:288)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.applyRuntimeDefaults(PreferenceServiceRegistryHelper.java:114)
+	at org.eclipse.core.internal.preferences.PreferencesService.applyRuntimeDefaults(PreferencesService.java:338)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.applyRuntimeDefaults(DefaultPreferences.java:233)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.load(DefaultPreferences.java:288)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:381)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:635)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:771)
+	at org.eclipse.core.runtime.preferences.AbstractScope.getNode(AbstractScope.java:37)
+	at org.eclipse.e4.ui.css.swt.helpers.EclipsePreferencesHelper.overrideDefault(EclipsePreferencesHelper.java:147)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:64)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:55)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.applyCSSProperty(EclipsePreferencesHandler.java:43)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyCSSProperty(AbstractCSSEngine.java:731)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyleDeclaration(AbstractCSSEngine.java:542)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyConditionalPseudoStyle(AbstractCSSEngine.java:503)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:412)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:369)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.applyStyles(ThemeEngine.java:553)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.overridePreferences(PartRenderingEngine.java:1485)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.handleEvent(PartRenderingEngine.java:1429)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.subscribeCssThemeChanged(PartRenderingEngine.java:378)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.di.internal.extensions.EventObjectSupplier$DIEventHandler.handleEvent(EventObjectSupplier.java:92)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:73)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:48)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.sendThemeChangeEvent(ThemeEngine.java:525)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:504)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:434)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:426)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.restore(ThemeEngine.java:623)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.setCSSTheme(PartRenderingEngine.java:1409)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1316)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1042)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1038)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:677)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:185)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:615)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:563)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1415)
+
+!ENTRY org.eclipse.ui.editors 4 10001 2026-01-11 10:28:45.777
+!MESSAGE Ignoring template 'markdownfilecomment' since validation failed.
+!STACK 0
+org.eclipse.jface.text.templates.TemplateException: Pattern is not a valid Java comment.
+	at org.eclipse.jdt.internal.core.manipulation.CodeTemplateContextType.validate(CodeTemplateContextType.java:416)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.validateTemplate(ContributionTemplateStore.java:181)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readIncludedTemplates(ContributionTemplateStore.java:154)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readContributedTemplates(ContributionTemplateStore.java:120)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.loadContributedTemplates(ContributionTemplateStore.java:109)
+	at org.eclipse.jface.text.templates.persistence.TemplateStore.load(TemplateStore.java:98)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.getCodeTemplateStore(JavaPlugin.java:916)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.start(JavaPlugin.java:429)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:838)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:251)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:830)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:780)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1082)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:394)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:643)
+	at org.eclipse.osgi.container.Module.start(Module.java:500)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:528)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:122)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:620)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:353)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:418)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:527)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:439)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:195)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:663)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:226)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:1034)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:286)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:65)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.runInitializer(PreferenceServiceRegistryHelper.java:288)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.applyRuntimeDefaults(PreferenceServiceRegistryHelper.java:114)
+	at org.eclipse.core.internal.preferences.PreferencesService.applyRuntimeDefaults(PreferencesService.java:338)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.applyRuntimeDefaults(DefaultPreferences.java:233)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.load(DefaultPreferences.java:288)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:381)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:635)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:771)
+	at org.eclipse.core.runtime.preferences.AbstractScope.getNode(AbstractScope.java:37)
+	at org.eclipse.e4.ui.css.swt.helpers.EclipsePreferencesHelper.overrideDefault(EclipsePreferencesHelper.java:147)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:64)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:55)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.applyCSSProperty(EclipsePreferencesHandler.java:43)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyCSSProperty(AbstractCSSEngine.java:731)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyleDeclaration(AbstractCSSEngine.java:542)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyConditionalPseudoStyle(AbstractCSSEngine.java:503)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:412)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:369)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.applyStyles(ThemeEngine.java:553)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.overridePreferences(PartRenderingEngine.java:1485)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.handleEvent(PartRenderingEngine.java:1429)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.subscribeCssThemeChanged(PartRenderingEngine.java:378)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.di.internal.extensions.EventObjectSupplier$DIEventHandler.handleEvent(EventObjectSupplier.java:92)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:73)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:48)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.sendThemeChangeEvent(ThemeEngine.java:525)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:504)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:434)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:426)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.restore(ThemeEngine.java:623)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.setCSSTheme(PartRenderingEngine.java:1409)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1316)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1042)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1038)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:677)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:185)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:615)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:563)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1415)
+
+!ENTRY org.eclipse.ui.editors 4 10001 2026-01-11 10:28:45.779
+!MESSAGE Ignoring template 'markdowntypecomment' since validation failed.
+!STACK 0
+org.eclipse.jface.text.templates.TemplateException: Pattern is not a valid Java comment.
+	at org.eclipse.jdt.internal.core.manipulation.CodeTemplateContextType.validate(CodeTemplateContextType.java:416)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.validateTemplate(ContributionTemplateStore.java:181)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readIncludedTemplates(ContributionTemplateStore.java:154)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readContributedTemplates(ContributionTemplateStore.java:120)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.loadContributedTemplates(ContributionTemplateStore.java:109)
+	at org.eclipse.jface.text.templates.persistence.TemplateStore.load(TemplateStore.java:98)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.getCodeTemplateStore(JavaPlugin.java:916)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.start(JavaPlugin.java:429)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:838)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:251)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:830)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:780)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1082)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:394)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:643)
+	at org.eclipse.osgi.container.Module.start(Module.java:500)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:528)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:122)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:620)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:353)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:418)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:527)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:439)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:195)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:663)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:226)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:1034)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:286)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:65)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.runInitializer(PreferenceServiceRegistryHelper.java:288)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.applyRuntimeDefaults(PreferenceServiceRegistryHelper.java:114)
+	at org.eclipse.core.internal.preferences.PreferencesService.applyRuntimeDefaults(PreferencesService.java:338)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.applyRuntimeDefaults(DefaultPreferences.java:233)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.load(DefaultPreferences.java:288)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:381)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:635)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:771)
+	at org.eclipse.core.runtime.preferences.AbstractScope.getNode(AbstractScope.java:37)
+	at org.eclipse.e4.ui.css.swt.helpers.EclipsePreferencesHelper.overrideDefault(EclipsePreferencesHelper.java:147)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:64)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:55)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.applyCSSProperty(EclipsePreferencesHandler.java:43)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyCSSProperty(AbstractCSSEngine.java:731)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyleDeclaration(AbstractCSSEngine.java:542)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyConditionalPseudoStyle(AbstractCSSEngine.java:503)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:412)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:369)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.applyStyles(ThemeEngine.java:553)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.overridePreferences(PartRenderingEngine.java:1485)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.handleEvent(PartRenderingEngine.java:1429)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.subscribeCssThemeChanged(PartRenderingEngine.java:378)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.di.internal.extensions.EventObjectSupplier$DIEventHandler.handleEvent(EventObjectSupplier.java:92)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:73)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:48)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.sendThemeChangeEvent(ThemeEngine.java:525)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:504)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:434)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:426)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.restore(ThemeEngine.java:623)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.setCSSTheme(PartRenderingEngine.java:1409)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1316)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1042)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1038)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:677)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:185)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:615)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:563)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1415)
+
+!ENTRY org.eclipse.ui.editors 4 10001 2026-01-11 10:28:45.780
+!MESSAGE Ignoring template 'markdownfieldcomment' since validation failed.
+!STACK 0
+org.eclipse.jface.text.templates.TemplateException: Pattern is not a valid Java comment.
+	at org.eclipse.jdt.internal.core.manipulation.CodeTemplateContextType.validate(CodeTemplateContextType.java:416)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.validateTemplate(ContributionTemplateStore.java:181)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readIncludedTemplates(ContributionTemplateStore.java:154)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readContributedTemplates(ContributionTemplateStore.java:120)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.loadContributedTemplates(ContributionTemplateStore.java:109)
+	at org.eclipse.jface.text.templates.persistence.TemplateStore.load(TemplateStore.java:98)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.getCodeTemplateStore(JavaPlugin.java:916)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.start(JavaPlugin.java:429)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:838)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:251)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:830)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:780)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1082)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:394)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:643)
+	at org.eclipse.osgi.container.Module.start(Module.java:500)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:528)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:122)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:620)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:353)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:418)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:527)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:439)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:195)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:663)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:226)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:1034)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:286)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:65)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.runInitializer(PreferenceServiceRegistryHelper.java:288)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.applyRuntimeDefaults(PreferenceServiceRegistryHelper.java:114)
+	at org.eclipse.core.internal.preferences.PreferencesService.applyRuntimeDefaults(PreferencesService.java:338)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.applyRuntimeDefaults(DefaultPreferences.java:233)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.load(DefaultPreferences.java:288)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:381)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:635)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:771)
+	at org.eclipse.core.runtime.preferences.AbstractScope.getNode(AbstractScope.java:37)
+	at org.eclipse.e4.ui.css.swt.helpers.EclipsePreferencesHelper.overrideDefault(EclipsePreferencesHelper.java:147)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:64)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:55)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.applyCSSProperty(EclipsePreferencesHandler.java:43)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyCSSProperty(AbstractCSSEngine.java:731)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyleDeclaration(AbstractCSSEngine.java:542)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyConditionalPseudoStyle(AbstractCSSEngine.java:503)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:412)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:369)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.applyStyles(ThemeEngine.java:553)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.overridePreferences(PartRenderingEngine.java:1485)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.handleEvent(PartRenderingEngine.java:1429)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.subscribeCssThemeChanged(PartRenderingEngine.java:378)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.di.internal.extensions.EventObjectSupplier$DIEventHandler.handleEvent(EventObjectSupplier.java:92)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:73)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:48)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.sendThemeChangeEvent(ThemeEngine.java:525)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:504)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:434)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:426)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.restore(ThemeEngine.java:623)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.setCSSTheme(PartRenderingEngine.java:1409)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1316)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1042)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1038)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:677)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:185)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:615)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:563)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1415)
+
+!ENTRY org.eclipse.ui.editors 4 10001 2026-01-11 10:28:45.782
+!MESSAGE Ignoring template 'markdownmethodcomment' since validation failed.
+!STACK 0
+org.eclipse.jface.text.templates.TemplateException: Pattern is not a valid Java comment.
+	at org.eclipse.jdt.internal.core.manipulation.CodeTemplateContextType.validate(CodeTemplateContextType.java:416)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.validateTemplate(ContributionTemplateStore.java:181)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readIncludedTemplates(ContributionTemplateStore.java:154)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readContributedTemplates(ContributionTemplateStore.java:120)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.loadContributedTemplates(ContributionTemplateStore.java:109)
+	at org.eclipse.jface.text.templates.persistence.TemplateStore.load(TemplateStore.java:98)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.getCodeTemplateStore(JavaPlugin.java:916)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.start(JavaPlugin.java:429)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:838)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:251)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:830)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:780)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1082)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:394)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:643)
+	at org.eclipse.osgi.container.Module.start(Module.java:500)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:528)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:122)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:620)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:353)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:418)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:527)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:439)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:195)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:663)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:226)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:1034)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:286)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:65)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.runInitializer(PreferenceServiceRegistryHelper.java:288)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.applyRuntimeDefaults(PreferenceServiceRegistryHelper.java:114)
+	at org.eclipse.core.internal.preferences.PreferencesService.applyRuntimeDefaults(PreferencesService.java:338)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.applyRuntimeDefaults(DefaultPreferences.java:233)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.load(DefaultPreferences.java:288)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:381)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:635)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:771)
+	at org.eclipse.core.runtime.preferences.AbstractScope.getNode(AbstractScope.java:37)
+	at org.eclipse.e4.ui.css.swt.helpers.EclipsePreferencesHelper.overrideDefault(EclipsePreferencesHelper.java:147)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:64)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:55)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.applyCSSProperty(EclipsePreferencesHandler.java:43)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyCSSProperty(AbstractCSSEngine.java:731)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyleDeclaration(AbstractCSSEngine.java:542)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyConditionalPseudoStyle(AbstractCSSEngine.java:503)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:412)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:369)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.applyStyles(ThemeEngine.java:553)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.overridePreferences(PartRenderingEngine.java:1485)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.handleEvent(PartRenderingEngine.java:1429)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.subscribeCssThemeChanged(PartRenderingEngine.java:378)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.di.internal.extensions.EventObjectSupplier$DIEventHandler.handleEvent(EventObjectSupplier.java:92)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:73)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:48)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.sendThemeChangeEvent(ThemeEngine.java:525)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:504)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:434)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:426)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.restore(ThemeEngine.java:623)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.setCSSTheme(PartRenderingEngine.java:1409)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1316)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1042)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1038)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:677)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:185)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:615)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:563)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1415)
+
+!ENTRY org.eclipse.ui.editors 4 10001 2026-01-11 10:28:45.783
+!MESSAGE Ignoring template 'markdownmodulecomment' since validation failed.
+!STACK 0
+org.eclipse.jface.text.templates.TemplateException: Pattern is not a valid Java comment.
+	at org.eclipse.jdt.internal.core.manipulation.CodeTemplateContextType.validate(CodeTemplateContextType.java:416)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.validateTemplate(ContributionTemplateStore.java:181)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readIncludedTemplates(ContributionTemplateStore.java:154)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readContributedTemplates(ContributionTemplateStore.java:120)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.loadContributedTemplates(ContributionTemplateStore.java:109)
+	at org.eclipse.jface.text.templates.persistence.TemplateStore.load(TemplateStore.java:98)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.getCodeTemplateStore(JavaPlugin.java:916)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.start(JavaPlugin.java:429)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:838)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:251)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:830)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:780)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1082)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:394)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:643)
+	at org.eclipse.osgi.container.Module.start(Module.java:500)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:528)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:122)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:620)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:353)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:418)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:527)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:439)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:195)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:663)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:226)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:1034)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:286)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:65)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.runInitializer(PreferenceServiceRegistryHelper.java:288)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.applyRuntimeDefaults(PreferenceServiceRegistryHelper.java:114)
+	at org.eclipse.core.internal.preferences.PreferencesService.applyRuntimeDefaults(PreferencesService.java:338)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.applyRuntimeDefaults(DefaultPreferences.java:233)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.load(DefaultPreferences.java:288)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:381)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:635)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:771)
+	at org.eclipse.core.runtime.preferences.AbstractScope.getNode(AbstractScope.java:37)
+	at org.eclipse.e4.ui.css.swt.helpers.EclipsePreferencesHelper.overrideDefault(EclipsePreferencesHelper.java:147)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:64)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:55)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.applyCSSProperty(EclipsePreferencesHandler.java:43)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyCSSProperty(AbstractCSSEngine.java:731)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyleDeclaration(AbstractCSSEngine.java:542)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyConditionalPseudoStyle(AbstractCSSEngine.java:503)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:412)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:369)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.applyStyles(ThemeEngine.java:553)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.overridePreferences(PartRenderingEngine.java:1485)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.handleEvent(PartRenderingEngine.java:1429)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.subscribeCssThemeChanged(PartRenderingEngine.java:378)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.di.internal.extensions.EventObjectSupplier$DIEventHandler.handleEvent(EventObjectSupplier.java:92)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:73)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:48)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.sendThemeChangeEvent(ThemeEngine.java:525)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:504)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:434)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:426)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.restore(ThemeEngine.java:623)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.setCSSTheme(PartRenderingEngine.java:1409)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1316)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1042)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1038)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:677)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:185)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:615)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:563)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1415)
+
+!ENTRY org.eclipse.ui.editors 4 10001 2026-01-11 10:28:45.796
+!MESSAGE Ignoring template 'markdowndelegatecomment' since validation failed.
+!STACK 0
+org.eclipse.jface.text.templates.TemplateException: Pattern is not a valid Java comment.
+	at org.eclipse.jdt.internal.core.manipulation.CodeTemplateContextType.validate(CodeTemplateContextType.java:416)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.validateTemplate(ContributionTemplateStore.java:181)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readIncludedTemplates(ContributionTemplateStore.java:154)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.readContributedTemplates(ContributionTemplateStore.java:120)
+	at org.eclipse.ui.editors.text.templates.ContributionTemplateStore.loadContributedTemplates(ContributionTemplateStore.java:109)
+	at org.eclipse.jface.text.templates.persistence.TemplateStore.load(TemplateStore.java:98)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.getCodeTemplateStore(JavaPlugin.java:916)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.start(JavaPlugin.java:429)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:838)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:251)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:830)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:780)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1082)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:394)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:643)
+	at org.eclipse.osgi.container.Module.start(Module.java:500)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:528)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:122)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:620)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:353)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:418)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:527)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:439)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:195)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:663)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:226)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:1034)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:286)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:65)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.runInitializer(PreferenceServiceRegistryHelper.java:288)
+	at org.eclipse.core.internal.preferences.PreferenceServiceRegistryHelper.applyRuntimeDefaults(PreferenceServiceRegistryHelper.java:114)
+	at org.eclipse.core.internal.preferences.PreferencesService.applyRuntimeDefaults(PreferencesService.java:338)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.applyRuntimeDefaults(DefaultPreferences.java:233)
+	at org.eclipse.core.internal.preferences.DefaultPreferences.load(DefaultPreferences.java:288)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:381)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:635)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:771)
+	at org.eclipse.core.runtime.preferences.AbstractScope.getNode(AbstractScope.java:37)
+	at org.eclipse.e4.ui.css.swt.helpers.EclipsePreferencesHelper.overrideDefault(EclipsePreferencesHelper.java:147)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:64)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.overrideProperty(EclipsePreferencesHandler.java:55)
+	at org.eclipse.e4.ui.css.swt.properties.preference.EclipsePreferencesHandler.applyCSSProperty(EclipsePreferencesHandler.java:43)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyCSSProperty(AbstractCSSEngine.java:731)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyleDeclaration(AbstractCSSEngine.java:542)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyConditionalPseudoStyle(AbstractCSSEngine.java:503)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:412)
+	at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:369)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.applyStyles(ThemeEngine.java:553)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.overridePreferences(PartRenderingEngine.java:1485)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$StylingPreferencesHandler.handleEvent(PartRenderingEngine.java:1429)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.subscribeCssThemeChanged(PartRenderingEngine.java:378)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.di.internal.extensions.EventObjectSupplier$DIEventHandler.handleEvent(EventObjectSupplier.java:92)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:73)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:48)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.sendThemeChangeEvent(ThemeEngine.java:525)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:504)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:434)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.setTheme(ThemeEngine.java:426)
+	at org.eclipse.e4.ui.css.swt.internal.theme.ThemeEngine.restore(ThemeEngine.java:623)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.setCSSTheme(PartRenderingEngine.java:1409)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.initializeStyling(PartRenderingEngine.java:1316)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1042)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1038)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:677)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:185)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:615)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:563)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1415)
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-01-11 10:29:11.055
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Lenovo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui.workbench 4 0 2026-01-11 10:29:11.719
+!MESSAGE Failed to obtain 'WinDefend' service state
+!STACK 0
+java.io.IOException: Process timed-out and it was attempted to forcefully terminate it
+	at org.eclipse.ui.internal.WindowsDefenderConfigurator.runProcess(WindowsDefenderConfigurator.java:395)
+	at org.eclipse.ui.internal.WindowsDefenderConfigurator.runPowershell(WindowsDefenderConfigurator.java:369)
+	at org.eclipse.ui.internal.WindowsDefenderConfigurator.isWindowsDefenderServiceRunning(WindowsDefenderConfigurator.java:302)
+	at org.eclipse.ui.internal.WindowsDefenderConfigurator.runExclusionCheck(WindowsDefenderConfigurator.java:159)
+	at org.eclipse.ui.internal.WindowsDefenderConfigurator.lambda$0(WindowsDefenderConfigurator.java:106)
+	at org.eclipse.core.runtime.jobs.Job$2.run(Job.java:187)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-01-11 10:29:16.061
+!MESSAGE Timed out after waiting for 300ms for semantic tokens from Language Servers
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1981)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2116)
+	at org.eclipse.lsp4e.jdt.LSJavaSemanticTokensProvider.computeSemanticTokens(LSJavaSemanticTokensProvider.java:68)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.getContributedSemanticTokens(SemanticHighlightingReconciler.java:423)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.reconciled(SemanticHighlightingReconciler.java:470)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1674)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:228)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:171)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.initialReconcile(JavaCompositeReconcilingStrategy.java:147)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:98)
+	at org.eclipse.jdt.internal.ui.text.JavaReconciler.initialProcess(JavaReconciler.java:398)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundWorker.lambda$0(AbstractReconciler.java:237)
+	at org.eclipse.core.runtime.jobs.Job$1.run(Job.java:166)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:28.392
+!MESSAGE 10:29:28.388 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.CompletionServerCapabilityRegistration - Registering Dynamic Completion Capabality
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:28.598
+!MESSAGE 10:29:28.592 [pool-3-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:29.005
+!MESSAGE 10:29:28.978 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - update settings of spring indexer - start
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:29.012
+!MESSAGE 10:29:29.011 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - update settings of spring indexer - done
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:29.013
+!MESSAGE 10:29:29.011 [Simple-Language-Server main thread] INFO  o.s.i.v.b.j.BootJavaLanguageServerComponents - update live process tracker settings - start
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:29.016
+!MESSAGE 10:29:29.015 [Simple-Language-Server main thread] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - updating settings for remote processses to track - done
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:29.452
+!MESSAGE WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:29.453
+!MESSAGE WARNING: sun.misc.Unsafe::objectFieldOffset has been called by com.google.common.util.concurrent.AbstractFuture$UnsafeAtomicHelper (file:/D:/sts-5.0.0.RELEASE/plugins/org.springframework.tooling.boot.ls_2.0.0.202512051827/servers/spring-boot-language-server/lib/guava-31.1-jre.jar)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:29.457
+!MESSAGE WARNING: Please consider reporting this to the maintainers of class com.google.common.util.concurrent.AbstractFuture$UnsafeAtomicHelper
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:29.458
+!MESSAGE WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:29.479
+!MESSAGE 10:29:29.469 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - project created event: order-service
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:29.503
+!MESSAGE 10:29:29.488 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - project created event: user-service
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:29.506
+!MESSAGE 10:29:29.505 [pool-3-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:29.705
+!MESSAGE 10:29:29.702 [pool-6-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files used cached data: auth-service - no. of cached symbols retrieved: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:29.877
+!MESSAGE 10:29:29.877 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - scan java files used cached data: auth-service - no. of cached symbols retrieved: 28
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:29.905
+!MESSAGE 10:29:29.903 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - scan java files for symbols for project: auth-service took ms: 140
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:30.010
+!MESSAGE 10:29:29.951 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:30.123
+!MESSAGE 10:29:30.122 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - scan java files used cached data: discovery-server - no. of cached symbols retrieved: 2
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:30.132
+!MESSAGE 10:29:30.132 [pool-6-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files used cached data: inventory-service - no. of cached symbols retrieved: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:30.489
+!MESSAGE 10:29:30.489 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - reconciling stats - counter: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:30.508
+!MESSAGE 10:29:30.507 [pool-6-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files used cached data: order-service - no. of cached symbols retrieved: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:30.787
+!MESSAGE 10:29:30.787 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - scan java files used cached data: order-service - no. of cached symbols retrieved: 18
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:30.790
+!MESSAGE 10:29:30.790 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - reconciling stats - timer: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:30.819
+!MESSAGE 10:29:30.819 [pool-6-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files used cached data: product-service - no. of cached symbols retrieved: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:31.038
+!MESSAGE 10:29:31.037 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - reconciling stats - timer: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:31.038
+!MESSAGE 10:29:31.037 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - scan java files for symbols for project: product-service took ms: 85
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:31.260
+!MESSAGE 10:29:31.049 [pool-6-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files for symbols for project: report-service took ms: 12
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:31.260
+!MESSAGE 10:29:31.258 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - reconciling stats - timer: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:31.568
+!MESSAGE 10:29:31.269 [pool-6-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files for symbols for project: supplier-service took ms: 10
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:31.689
+!MESSAGE 10:29:31.689 [pool-6-thread-1] INFO  o.s.i.v.b.j.u.SpringFactoriesIndexer - scan factories files used cached data: user-service - no. of cached symbols retrieved: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:31.936
+!MESSAGE 10:29:31.935 [pool-5-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:31.959
+!MESSAGE 10:29:31.940 [pool-3-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:32.623
+!MESSAGE 10:29:31.994 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:32.624
+!MESSAGE 10:29:32.622 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - reconciling stats - counter: 7
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:32.633
+!MESSAGE 10:29:32.631 [Project-Reconciler-1] INFO  o.s.i.v.b.v.BootVersionValidationEngine - validating Spring Boot version on project: api-gateway done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:29:32.639
+!MESSAGE 10:29:32.637 [Project-Reconciler-1] INFO  o.s.i.v.b.v.BootVersionValidationEngine - validating Spring Boot version on project: supplier-service done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:03.758
+!MESSAGE 10:30:03.757 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorService - connect to process: service:jmx:rmi:///jndi/rmi://127.0.0.1:52950/jmxrmi
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:03.816
+!MESSAGE 10:30:03.815 [pool-7-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorService - refresh process: service:jmx:rmi:///jndi/rmi://127.0.0.1:52950/jmxrmi
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.184
+!MESSAGE ProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.186
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.187
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.187
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.305
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.306
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.307
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.308
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.309
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.310
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.316
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.317
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.318
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.319
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.320
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.321
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.321
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.322
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.323
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:22.325
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:38.360
+!MESSAGE 10:30:38.124 [pool-7-thread-3] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorService - Refreshing data from Spring process: service:jmx:rmi:///jndi/rmi://127.0.0.1:52984/jmxrmi - retry no: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:38.476
+!MESSAGE 10:30:38.415 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.649
+!MESSAGE 10:30:51.647 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - updating settings for remote processses to track - start
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.651
+!MESSAGE 10:30:51.648 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - Creating RemoteStringBootApp: RemoteBootAppData [jmxurl=service:jmx:rmi:///jndi/rmi://127.0.0.1:53011/jmxrmi, host=127.0.0.1, urlScheme=http, port=null, manualConnect=false, keepChecking=true, processId=19016, processName=com.tcs.userservice.UserServiceApplication. projectName=user-service]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.651
+!MESSAGE 10:30:51.648 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorService - connect to process: service:jmx:rmi:///jndi/rmi://127.0.0.1:53011/jmxrmi
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.669
+!MESSAGE 10:30:51.667 [pool-7-thread-4] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorService - Refreshing data from Spring process: service:jmx:rmi:///jndi/rmi://127.0.0.1:53011/jmxrmi - retry no: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.900
+!MESSAGE ProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.901
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.902
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.902
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.903
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.903
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.903
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.904
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.904
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.904
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.904
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.905
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.905
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.906
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.906
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.906
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.907
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.907
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.908
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:30:51.908
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:32:05.516
+!MESSAGE 10:32:05.515 [pool-14-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - Creating RemoteStringBootApp: RemoteBootAppData [jmxurl=service:jmx:rmi:///jndi/rmi://127.0.0.1:60118/jmxrmi, host=127.0.0.1, urlScheme=http, port=null, manualConnect=false, keepChecking=true, processId=13576, processName=com.tcs.product_service.ProductServiceApplication. projectName=product-service]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:32:05.550
+!MESSAGE 10:32:05.549 [pool-7-thread-5] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorService - Refreshing data from Spring process: service:jmx:rmi:///jndi/rmi://127.0.0.1:60118/jmxrmi - retry no: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 10:32:05.904
+!MESSAGE 10:32:05.836 [pool-5-thread-3] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/client/UserServiceClient.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 11:42:23.481
+!MESSAGE 11:42:23.438 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 1
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 11:42:23.647
+!MESSAGE 11:42:23.645 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/supplier-service/src/main/java/com/tcs/supplierservice/services/SupplierService.java
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-01-11 11:42:24.417
+!MESSAGE Timed out after waiting for 300ms for semantic tokens from Language Servers
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1981)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2116)
+	at org.eclipse.lsp4e.jdt.LSJavaSemanticTokensProvider.computeSemanticTokens(LSJavaSemanticTokensProvider.java:68)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.getContributedSemanticTokens(SemanticHighlightingReconciler.java:423)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.reconciled(SemanticHighlightingReconciler.java:470)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1674)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:228)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:171)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.initialReconcile(JavaCompositeReconcilingStrategy.java:147)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:98)
+	at org.eclipse.jdt.internal.ui.text.JavaReconciler.initialProcess(JavaReconciler.java:398)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundWorker.lambda$0(AbstractReconciler.java:237)
+	at org.eclipse.core.runtime.jobs.Job$1.run(Job.java:166)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 11:42:24.442
+!MESSAGE 11:42:24.138 [pool-3-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/supplier-service/src/main/java/com/tcs/supplierservice/services/SupplierService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 11:42:25.067
+!MESSAGE 11:42:25.066 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///F:/IMS/backend/supplier-service/src/main/java/com/tcs/supplierservice/services/SupplierService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 11:42:25.070
+!MESSAGE 11:42:25.068 [pool-3-thread-9] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/supplier-service/src/main/java/com/tcs/supplierservice/services/SupplierService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 11:42:25.095
+!MESSAGE 11:42:25.091 [pool-3-thread-10] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/supplier-service/src/main/java/com/tcs/supplierservice/services/SupplierService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 11:42:50.169
+!MESSAGE 11:42:25.099 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/supplier-service/src/main/java/com/tcs/supplierservice/services/SupplierService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 11:42:50.179
+!MESSAGE 11:42:50.171 [pool-8-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/services/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 11:42:50.565
+!MESSAGE 11:42:50.564 [pool-5-thread-4] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/services/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 11:42:50.570
+!MESSAGE 11:42:50.567 [pool-3-thread-12] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/services/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 11:42:50.581
+!MESSAGE 11:42:50.580 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/services/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 11:42:50.582
+!MESSAGE 11:42:50.580 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/services/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 11:42:50.804
+!MESSAGE 11:42:50.591 [pool-3-thread-8] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/services/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 11:42:51.369
+!MESSAGE 11:42:50.889 [pool-3-thread-8] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 11:43:03.053
+!MESSAGE 11:43:03.052 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/auth-service/src/main/java/com/tcs/authservice/services/AuthService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 12:27:57.558
+!MESSAGE 12:27:57.478 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///F:/IMS/backend/user-service/src/main/java/com/tcs/userservice/controllers/UserProfileController.java
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-01-11 12:27:57.954
+!MESSAGE Timed out after waiting for 300ms for semantic tokens from Language Servers
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1981)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2116)
+	at org.eclipse.lsp4e.jdt.LSJavaSemanticTokensProvider.computeSemanticTokens(LSJavaSemanticTokensProvider.java:68)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.getContributedSemanticTokens(SemanticHighlightingReconciler.java:423)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.reconciled(SemanticHighlightingReconciler.java:470)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1674)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:228)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:171)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.initialReconcile(JavaCompositeReconcilingStrategy.java:147)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:98)
+	at org.eclipse.jdt.internal.ui.text.JavaReconciler.initialProcess(JavaReconciler.java:398)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundWorker.lambda$0(AbstractReconciler.java:237)
+	at org.eclipse.core.runtime.jobs.Job$1.run(Job.java:166)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 12:27:57.974
+!MESSAGE 12:27:57.965 [pool-3-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///F:/IMS/backend/user-service/src/main/java/com/tcs/userservice/controllers/UserProfileController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 12:27:58.193
+!MESSAGE 12:27:58.192 [pool-5-thread-5] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///F:/IMS/backend/user-service/src/main/java/com/tcs/userservice/controllers/UserProfileController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 12:27:58.352
+!MESSAGE 12:27:58.252 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/user-service/src/main/java/com/tcs/userservice/controllers/UserProfileController.java
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-01-11 12:27:58.548
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:430)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2117)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:66)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 12:28:00.041
+!MESSAGE 12:28:00.039 [pool-3-thread-16] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///F:/IMS/backend/user-service/src/main/java/com/tcs/userservice/controllers/UserProfileController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-01-11 12:44:14.227
+!MESSAGE 12:44:13.685 [pool-5-thread-6] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///F:/IMS/backend/user-service/src/main/java/com/tcs/userservice/controllers/UserProfileController.java
