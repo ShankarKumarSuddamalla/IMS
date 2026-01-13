@@ -26,12 +26,12 @@ public class JwtAuthenticationFilter implements GlobalFilter, Ordered {
 
         System.out.println("Path: " + path + " | Method: " + method);
 
-        // 🔓 PUBLIC ENDPOINTS
+        //PUBLIC ENDPOINTS
         if (path.startsWith("/auth-service/auth")) {
             return chain.filter(exchange);
         }
 
-        // 🔒 AUTHORIZATION HEADER REQUIRED
+        //AUTHORIZATION HEADER REQUIRED
         String authHeader = exchange.getRequest()
                 .getHeaders()
                 .getFirst(HttpHeaders.AUTHORIZATION);

@@ -52,7 +52,7 @@ public class AuthService {
 
     public void register(String name, String email, String password, String roleName) {
 
-        // 🔒 RULE: ONLY ONE ADMIN ALLOWED
+        //RULE: ONLY ONE ADMIN ALLOWED
         if ("ADMIN".equalsIgnoreCase(roleName)) {
 
             boolean adminExists = userRepository.existsByRole_Name("ADMIN");
@@ -62,11 +62,11 @@ public class AuthService {
             }
         }
 
-        // 🔎 Fetch role
+        // Fetch role
         Role role = roleRepository.findByName(roleName)
                 .orElseThrow(() -> new RuntimeException("Role not found"));
 
-        // 👤 Create user in auth_db
+        //Create user in auth_db
         User user = new User();
         user.setName(name);
         user.setEmail(email);
@@ -75,7 +75,7 @@ public class AuthService {
 
         userRepository.save(user);
 
-        // 🔥 AUTO CREATE USER PROFILE IN USER-SERVICE
+        //AUTO CREATE USER PROFILE IN USER-SERVICE
         UserProfileRequest profileRequest = new UserProfileRequest();
         profileRequest.setName(user.getName());
         profileRequest.setEmail(user.getEmail());

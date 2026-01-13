@@ -8,4 +8,5 @@ import com.tcs.product_service.entities.Product;
 
 public interface ProductRepository extends JpaRepository<Product, Long> {
 	List<Product> findByCategoryId(Long categoryId);
+	List<Product> findByNameContainigIgnoreCase(String productName);
 }

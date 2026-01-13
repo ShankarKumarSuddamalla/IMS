@@ -24,7 +24,7 @@ public class AuthController {
         return new JwtResponse(token);
     }
     
-    @PostMapping("/register")   // 🔴 THIS MUST EXIST
+    @PostMapping("/register")   //THIS MUST EXIST
     public String register(@RequestBody RegisterRequest request) {
         authService.register(
             request.getName(),

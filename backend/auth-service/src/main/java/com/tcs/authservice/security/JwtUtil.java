@@ -29,7 +29,7 @@ public class JwtUtil {
                 .claim("role", role)
                 .setIssuedAt(new Date())
                 .setExpiration(new Date(System.currentTimeMillis() + expiration))
-                .signWith(getSigningKey())   // ✅ NOT deprecated
+                .signWith(getSigningKey())   //NOT deprecated
                 .compact();
     }
 }

@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.tcs.product_service.dtos.ProductRequest;
@@ -55,6 +56,16 @@ public class ProductController {
     @DeleteMapping("/{id}")
     public void delete(@PathVariable Long id) {
         service.deleteProduct(id);
+    }
+    @GetMapping("/search")
+    public List<ProductResponse> searchProducts(
+            @RequestParam String keyword,
+            @RequestParam(required = false) String category
+    ) {
+        return service.searchProducts(keyword, category)
+                .stream()
+                .map(this::map)
+                .toList();
     }
 
     private ProductResponse map(Product p) {

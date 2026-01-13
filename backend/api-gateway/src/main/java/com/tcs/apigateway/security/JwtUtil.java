@@ -14,7 +14,8 @@ public class JwtUtil {
 
     @Value("${jwt.secret}")
     private String secret;
-
+    //This method converts your 
+    //plain-text secret string into a cryptographic Key object using the HS256
     private Key getSigningKey() {
         return Keys.hmacShaKeyFor(secret.getBytes());
     }
@@ -26,6 +27,11 @@ public class JwtUtil {
                 .parseClaimsJws(token)
                 .getBody();
     }
+    //A client sends a token saying, "I claim to be an Admin."
+
+    //The server checks the Signature.
+
+    //If the signature is valid, the server "accepts" the claim and grants Admin access.
 
     public boolean isTokenValid(String token) {
         try {
